@@ -1,2 +1,4 @@
 # ChineseSimplified-of-Rimplas
 ChineseSimplified of Rimplas
+
+该mod具有多个与其他mod的补丁文件，部分含有新内容，因我未使用其中大部分mod，因此对未使用的mod的patch文件中的内容不进行翻译，仅对Insulation(隔热层)中增加的内容进行了翻译，mod本体已全部翻译，但因该mod本非我十分喜欢的类型，因此部分翻译有些惨不忍睹，还望见谅。
